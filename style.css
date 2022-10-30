@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+}
+.copy_right_footer{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+.idef{
+    background-color: whitesmoke;
+}
+#ged{
+    background-color: steelblue;
+}
